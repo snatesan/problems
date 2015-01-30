@@ -1,0 +1,22 @@
+{
+  "name": "problems",
+  "version": "0.0.0",
+  "description": "Solutions for popular programming interview questions in JavaScript",
+  "main": ".",
+  "scripts": {
+    "test": "mocha -r should"
+  },
+  "author": "snatesan",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "argv": "0.0.2"
+  },
+  "devDependencies": {
+    "should": "~4.1.0",
+    "gulp": "~3.8.10",
+    "gulp-jshint": "~1.9.0",
+    "gulp-mocha": "~2.0.0",
+    "gulp-util": "~3.0.1",
+    "jshint-stylish": "~1.0.0"
+  }
+}
