@@ -8,6 +8,10 @@
   },
   "author": "snatesan",
   "license": "BSD-2-Clause",
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/snatesan/problems.git"
+  },
   "dependencies": {
     "argv": "0.0.2"
   },

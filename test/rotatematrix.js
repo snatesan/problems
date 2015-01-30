@@ -1,6 +1,6 @@
 "use strict";
 
-var rotateMatrix = require("../lib/rotateMatrix");
+var rotateMatrix = require("../lib/rotatematrix");
 
 describe("rotate nxn matrix 90 degrees", function() {
 	it("should return [[3,1],[4,2]] for input [[1, 2],[3,4]]", function() {
