@@ -12,7 +12,7 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/findmissingnumber.js">Find missing number in tow given nun negative integer arrays where one array is formed by shuffling the elements of the first array and deleting a random element</a>
-		<li>
+		</li>
 	</ul>
 </section>
 
@@ -37,7 +37,7 @@ Programming questions solved in JavaScript
 	<ul>
 		<li>
 			<a href="lib/findcyclelistloopbeginning.js">Returns the node at the begging of loop of a circular linked list</a>
-		<li>
+		</li>
 	</ul>
 </section>
 
@@ -68,10 +68,10 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/findbstionordernextnode.js">Find in order successor of a node in BST</a>
-		<li>
+		</li>
 		<li>
 			<a href="lib/findcommonancestoroftreenodes.j">Finds common ancestor of two nodes in a binary tree</a>
-		<li>
+		</li>
 	</ul>
 </section>
 
@@ -99,10 +99,10 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/findbstionordernextnode.js">Find in order successor of a node in BST</a>
-		<li>
+		</li>
 		<li>
 			<a href="lib/findcommonancestoroftreenodes.j">Finds common ancestor of two nodes in a binary tree</a>
-		<li>
+		</li>
 	</ul>
 </section>
 
