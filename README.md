@@ -14,7 +14,7 @@ Programming questions solved in JavaScript
 			<a href="lib/kthlargest.js">Finds kth largest element in an array of integers</a>
 		</li>
 		<li>
-			<a href="lib/matrixregionsum.js">Finds sum of numbers falling inside a given rectangle area for a given matrix of integers</a>
+			<a href="lib/matrixRegionSum.js">Finds sum of numbers falling inside a given rectangle area for a given matrix of integers</a>
 		</li>
 		<li>
 			<a href="lib/maxproductinarray.js">Finds the maximum product from a contiguous sub array in a given array</a>
@@ -97,10 +97,10 @@ Programming questions solved in JavaScript
 			<a href="lib/createlistfromtree.js">Creates a linked list of all the nodes at each depth for a given binary tree</a>
 		</li>
 		<li>
-			<a href="lib/findbstionordernextnode.js">Find in order successor of a node in BST</a>
+			<a href="lib/findbstinordernextnode.js">Find in order successor of a node in BST</a>
 		</li>
 		<li>
-			<a href="lib/findcommonancestoroftreenodes.j">Finds common ancestor of two nodes in a binary tree</a>
+			<a href="lib/findcommonancestoroftreenodes.js">Finds common ancestor of two nodes in a binary tree</a>
 		</li>
 		<li>
 			<a href="lib/getpathsintree.js">Return all paths in a binary tree which sum to a given value</a>
@@ -201,7 +201,3 @@ Programming questions solved in JavaScript
 		</li>
 	</ul>
 </section>
-
-		<li>
-			<a href="lib/"></a>
-		</li>
