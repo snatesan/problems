@@ -154,10 +154,10 @@ Programming questions solved in JavaScript
 			<a href="lib/createbstfromsortedarray.js">Create binary search tree from sorted array</a>
 		</li>
 		<li>
-			<a href="lib/findbstionordernextnode.js">Find in order successor of a node in BST</a>
+			<a href="lib/findbstinordernextnode.js">Find in order successor of a node in BST</a>
 		</li>
 		<li>
-			<a href="lib/findcommonancestoroftreenodes.j">Finds common ancestor of two nodes in a binary tree</a>
+			<a href="lib/findcommonancestoroftreenodes.js">Finds common ancestor of two nodes in a binary tree</a>
 		</li>
 		<li>
 			<a href="lib/generateparentheses.js">Generate all valid pairs of parentheses for given count</a>
