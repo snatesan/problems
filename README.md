@@ -46,9 +46,6 @@ Programming questions solved in JavaScript
 			<a href="lib/stringhasuniquecharactersforascii.js">Determines whether a string has all unique characters (ASCII)</a>
 		</li>
 		<li>
-			<a href="lib/stacksort.js">Sorts a stack in ascending order</a>
-		</li>
-		<li>
 			<a href="lib/wordpuzzle.js">Searches a word in a dictionary</a>
 		</li>
 	</ul>
@@ -93,6 +90,9 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/setOfStacks.js">Implements a single stack composed of several stacks limited by capacity</a>
+		</li>
+		<li>
+			<a href="lib/stacksort.js">Sorts a stack in ascending order</a>
 		</li>
 		<li>
 			<a href="lib/towerofhanoi.js">Move disks from first tower to last tower in Towers of Hanoi problem</a>
