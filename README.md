@@ -39,6 +39,15 @@ Programming questions solved in JavaScript
 		<li>
 			<a href="lib/combinetwostrings.js">Verifies whether str3 is a valid shuffle of str2 and str1</a>
 		</li>
+		<li>
+			<a href="lib/stringcompression.js">Simple string compression using the count of repeated characters</a>
+		</li>
+		<li>
+			<a href="lib/stringhasuniquecharactersforascii.js">Determines whether a string has all unique characters (ASCII)</a>
+		</li>
+		<li>
+			<a href="lib/wordpuzzle.js">Searches a word in a dictionary</a>
+		</li>
 	</ul>
 </section>
 
@@ -65,12 +74,15 @@ Programming questions solved in JavaScript
 		<li>
 			<a href="lib/numberlistaddition.js">Adds two numbers represented by linked list where each node contains a single digit</a>
 		</li>
+		<li>
+			<a href="lib/stacksort.js">Sorts a stack in ascending order</a>
+		</li>
 	</ul>
 </section>
 
 <section>
 <header>
-	<h3>Queues</h3>
+	<h3>Queues and Stacks</h3>
 </header>
 	<ul>
 		<li>
@@ -78,6 +90,12 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/queuewithstack.js">Implements a queue with two stacks</a>
+		</li>
+		<li>
+			<a href="lib/setOfStacks.js">Implements a single stack composed of several stacks limited by capacity</a>
+		</li>
+		<li>
+			<a href="lib/towerofhanoi.js">Move disks from first tower to last tower in Towers of Hanoi problem</a>
 		</li>
 	</ul>
 </section>
@@ -107,6 +125,9 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/isbalancedbinarytree.js">Checks whether a binary tree is blanced</a>
+		</li>
+		<li>
+			<a href="lib/treecontains.js">Checks whether a tree T2 is a subtree of tree T1</a>
 		</li>
 	</ul>
 </section>
@@ -138,6 +159,12 @@ Programming questions solved in JavaScript
 		</li>
 		<li>
 			<a href="lib/insertmbits.js">Inserts number M into number N such that M starts at bit j and ends at bit i</a>
+		</li>
+		<li>
+			<a href="lib/stringhasuniquecharactersforascii.js">Determines whether a string has all unique characters (ASCII)</a>
+		</li>
+		<li>
+			<a href="lib/swapoddandevenbits.js">Swaps odd and even bits in an integer</a>
 		</li>
 	</ul>
 </section>
@@ -174,6 +201,9 @@ Programming questions solved in JavaScript
 		<li>
 			<a href="lib/kthlastelement.js">Finds kth last element of a singly linked list</a>
 		</li>
+		<li>
+			<a href="lib/treecontains.js">Checks whether a tree T2 is a subtree of tree T1</a>
+		</li>
 	</ul>
 </section>
 
@@ -201,3 +231,5 @@ Programming questions solved in JavaScript
 		</li>
 	</ul>
 </section>
+
+
